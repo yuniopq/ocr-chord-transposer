@@ -1,0 +1,10 @@
+streamlit
+streamlit-cropper
+paddleocr
+paddlepaddle
+fastapi
+uvicorn
+python-multipart
+firebase-admin
+pillow
+numpy
